@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi3\2001216333_LeThanhYen_B4\BT2_Mau\BT2_Mau\bin\Debug\BT2_Mau.exe.config
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi3\2001216333_LeThanhYen_B4\BT2_Mau\BT2_Mau\bin\Debug\BT2_Mau.exe
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi3\2001216333_LeThanhYen_B4\BT2_Mau\BT2_Mau\bin\Debug\BT2_Mau.pdb
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi3\2001216333_LeThanhYen_B4\BT2_Mau\BT2_Mau\obj\Debug\BT2_Mau.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi3\2001216333_LeThanhYen_B4\BT2_Mau\BT2_Mau\obj\Debug\BT2_Mau.Form1.resources
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi3\2001216333_LeThanhYen_B4\BT2_Mau\BT2_Mau\obj\Debug\BT2_Mau.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi3\2001216333_LeThanhYen_B4\BT2_Mau\BT2_Mau\obj\Debug\BT2_Mau.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi3\2001216333_LeThanhYen_B4\BT2_Mau\BT2_Mau\obj\Debug\BT2_Mau.exe
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi3\2001216333_LeThanhYen_B4\BT2_Mau\BT2_Mau\obj\Debug\BT2_Mau.pdb

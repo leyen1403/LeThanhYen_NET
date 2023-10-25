@@ -1,0 +1,8 @@
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT3\Mau_BT3\bin\Debug\Mau_BT3.exe.config
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT3\Mau_BT3\bin\Debug\Mau_BT3.exe
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT3\Mau_BT3\bin\Debug\Mau_BT3.pdb
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT3\Mau_BT3\obj\Debug\Mau_BT3.Form1.resources
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT3\Mau_BT3\obj\Debug\Mau_BT3.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT3\Mau_BT3\obj\Debug\Mau_BT3.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT3\Mau_BT3\obj\Debug\Mau_BT3.exe
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT3\Mau_BT3\obj\Debug\Mau_BT3.pdb

@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi7\Mau_Bai1\Mau_Bai1\bin\Debug\Mau_Bai1.exe.config
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi7\Mau_Bai1\Mau_Bai1\bin\Debug\Mau_Bai1.exe
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi7\Mau_Bai1\Mau_Bai1\bin\Debug\Mau_Bai1.pdb
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi7\Mau_Bai1\Mau_Bai1\obj\Debug\Mau_Bai1.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi7\Mau_Bai1\Mau_Bai1\obj\Debug\Mau_Bai1.Form1.resources
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi7\Mau_Bai1\Mau_Bai1\obj\Debug\Mau_Bai1.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi7\Mau_Bai1\Mau_Bai1\obj\Debug\Mau_Bai1.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi7\Mau_Bai1\Mau_Bai1\obj\Debug\Mau_Bai1.exe
+E:\LuuDuLieuSinhVien\LeThanhYen\Buoi7\Mau_Bai1\Mau_Bai1\obj\Debug\Mau_Bai1.pdb

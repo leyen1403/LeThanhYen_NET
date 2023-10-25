@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT1\Mau_BT1\bin\Debug\Mau_BT1.exe.config
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT1\Mau_BT1\bin\Debug\Mau_BT1.exe
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT1\Mau_BT1\bin\Debug\Mau_BT1.pdb
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT1\Mau_BT1\obj\Debug\Mau_BT1.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT1\Mau_BT1\obj\Debug\Mau_BT1.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT1\Mau_BT1\obj\Debug\Mau_BT1.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT1\Mau_BT1\obj\Debug\Mau_BT1.exe
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT1\Mau_BT1\obj\Debug\Mau_BT1.pdb
+E:\LuuDuLieuSinhVien\LeThanhYen\Mau_BT1\Mau_BT1\obj\Debug\Mau_BT1.frmListBox.resources

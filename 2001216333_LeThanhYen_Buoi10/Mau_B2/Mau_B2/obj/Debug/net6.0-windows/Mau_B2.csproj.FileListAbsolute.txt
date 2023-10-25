@@ -1,0 +1,17 @@
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\bin\Debug\net6.0-windows\Mau_B2.exe
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\bin\Debug\net6.0-windows\Mau_B2.deps.json
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\bin\Debug\net6.0-windows\Mau_B2.runtimeconfig.json
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\bin\Debug\net6.0-windows\Mau_B2.dll
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\bin\Debug\net6.0-windows\Mau_B2.pdb
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\obj\Debug\net6.0-windows\Mau_B2.Form1.resources
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\obj\Debug\net6.0-windows\Mau_B2.Properties.Resources.resources
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\obj\Debug\net6.0-windows\Mau_B2.csproj.GenerateResource.cache
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\obj\Debug\net6.0-windows\Mau_B2.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\obj\Debug\net6.0-windows\Mau_B2.AssemblyInfoInputs.cache
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\obj\Debug\net6.0-windows\Mau_B2.AssemblyInfo.cs
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\obj\Debug\net6.0-windows\Mau_B2.csproj.CoreCompileInputs.cache
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\obj\Debug\net6.0-windows\Mau_B2.dll
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\obj\Debug\net6.0-windows\refint\Mau_B2.dll
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\obj\Debug\net6.0-windows\Mau_B2.pdb
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\obj\Debug\net6.0-windows\Mau_B2.genruntimeconfig.cache
+E:\HK5\.NET\2001216333_LeThanhYen_Buoi10\Mau_B2\Mau_B2\obj\Debug\net6.0-windows\ref\Mau_B2.dll

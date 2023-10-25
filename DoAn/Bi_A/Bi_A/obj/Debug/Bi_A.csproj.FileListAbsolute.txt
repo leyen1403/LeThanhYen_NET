@@ -1,0 +1,12 @@
+D:\Hoc\IT\HOCKY_5\CONGNGHE.NET\Bi_A\Bi_A\bin\Debug\Bi_A.exe.config
+D:\Hoc\IT\HOCKY_5\CONGNGHE.NET\Bi_A\Bi_A\bin\Debug\Bi_A.exe
+D:\Hoc\IT\HOCKY_5\CONGNGHE.NET\Bi_A\Bi_A\bin\Debug\Bi_A.pdb
+D:\Hoc\IT\HOCKY_5\CONGNGHE.NET\Bi_A\Bi_A\obj\Debug\Bi_A.csproj.AssemblyReference.cache
+D:\Hoc\IT\HOCKY_5\CONGNGHE.NET\Bi_A\Bi_A\obj\Debug\Bi_A.Properties.Resources.resources
+D:\Hoc\IT\HOCKY_5\CONGNGHE.NET\Bi_A\Bi_A\obj\Debug\Bi_A.csproj.GenerateResource.cache
+D:\Hoc\IT\HOCKY_5\CONGNGHE.NET\Bi_A\Bi_A\obj\Debug\Bi_A.csproj.CoreCompileInputs.cache
+D:\Hoc\IT\HOCKY_5\CONGNGHE.NET\Bi_A\Bi_A\obj\Debug\Bi_A.exe
+D:\Hoc\IT\HOCKY_5\CONGNGHE.NET\Bi_A\Bi_A\obj\Debug\Bi_A.pdb
+D:\Hoc\IT\HOCKY_5\CONGNGHE.NET\Bi_A\Bi_A\obj\Debug\Bi_A.DangNhap.resources
+D:\Hoc\IT\HOCKY_5\CONGNGHE.NET\Bi_A\Bi_A\obj\Debug\Bi_A.form_Main.resources
+D:\Hoc\IT\HOCKY_5\CONGNGHE.NET\Bi_A\Bi_A\obj\Debug\Bi_A.Form_Menu.resources
